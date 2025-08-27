@@ -9,4 +9,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+#This is step 7 and 8 (Information type: titling and estbalishing the information below)
+```{r}
+# Simple mathematical operation
+x=4401*2
+x
+```
+###I made a math equation involving the course code (Information type: explaining what happened above more specifically)
+Next I need commit this I think (Information type: next steps and/or other commentary )
+
+
+
 
